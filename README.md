@@ -10,8 +10,8 @@ Analizador básico de contraseñas, desarrollado en Python.
 - Sistema básico de puntuación.
 
 ## PRÓXIMAS MEJORAS
-- [ ] Separación mediante funciones.
-- [ ] Separación de módulos.
+- [x] Separación mediante funciones.
+- [x] Separación de módulos.
 
 ## EXPLICACIÓN DE CÓDIGOS.
 ### PARA ENCONTRAR ESPACIOS EN BLANCO:
