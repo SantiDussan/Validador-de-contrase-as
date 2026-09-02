@@ -12,6 +12,12 @@ Analizador básico de contraseñas, desarrollado en Python.
 ## PRÓXIMAS MEJORAS
 - [x] Separación mediante funciones.
 - [x] Separación de módulos.
+- [x] Recomendaciones en el uso de contraseñas.
+- [ ] Sistema de conteo de la contraseña (en proceso de mejora continua). 
+- [ ] Contraseñas/ patrones comunes.
+- [ ] Repetición consecutivas.
+- [ ] Secuencias predecibles.
+- [ ] Entropía/ espacio de busqueda.
 
 ## EXPLICACIÓN DE CÓDIGOS.
 ### PARA ENCONTRAR ESPACIOS EN BLANCO:
